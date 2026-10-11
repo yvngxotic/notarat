@@ -20,3 +20,5 @@ hope y'all learn from this like i did building it (sorry for the spaghetti code,
 }
 ```
 ---
+
+literally it's not a rat, it's an infostealer lol
